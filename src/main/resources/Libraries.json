@@ -1,0 +1,47 @@
+[
+  {
+    "manager": {
+      "id": "3fb3726b-c5c9-4a92-8f92-e72a916c38e3",
+      "username": "Salohiddin",
+      "password": "Salohiddin@03",
+      "role": "MANAGER",
+      "active": true,
+      "haveLibrary": false,
+      "books": []
+    },
+    "name": "WorldBooks",
+    "id": "d2d9cce6-220a-44f3-9ba1-0b2a58f8a2f4",
+    "books": [
+      {
+        "id": "7e7ad945-151f-43c9-aca5-13afd9aeeb0d",
+        "name": "GodFather",
+        "author": "Kommy",
+        "amount": 3
+      },
+      {
+        "id": "68995919-d7b4-41ed-88fe-24e4ce298ca9",
+        "name": "Asaad",
+        "author": "Asadimmi nok",
+        "amount": 1
+      },
+      {
+        "id": "7512e37f-9855-408c-a1ae-b2815628c864",
+        "name": "Komui",
+        "author": "Shisui Uchiha",
+        "amount": 2
+      },
+      {
+        "id": "81ffa7f6-5313-4616-9352-11e08d552a6a",
+        "name": "Utkan kunlar",
+        "author": "Abdulla Kodiriy",
+        "amount": 4
+      },
+      {
+        "id": "af1bfb37-147a-479e-a3e7-b7297aaf192e",
+        "name": "Yulduzlu tunlar",
+        "author": "Pirimqul Qodirov",
+        "amount": 10
+      }
+    ]
+  }
+]

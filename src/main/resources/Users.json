@@ -1,0 +1,81 @@
+[
+  {
+    "id": "d39a8309-71e0-47c4-ad7b-c63000e11cdf",
+    "username": "0",
+    "password": "0",
+    "role": "ADMIN",
+    "active": true,
+    "haveLibrary": false,
+    "books": []
+  },
+  {
+    "id": "e6f70be1-d9da-4655-bfae-9026ecc0aaa1",
+    "username": "Mustafo",
+    "password": "Mustafo@03",
+    "role": "MANAGER",
+    "active": true,
+    "haveLibrary": false,
+    "books": []
+  },
+  {
+    "id": "15e87212-b314-4fcc-8462-732435f74561",
+    "username": "Muhammad",
+    "password": "Muhammad",
+    "role": "MANAGER",
+    "active": true,
+    "haveLibrary": false,
+    "books": []
+  },
+  {
+    "id": "3fb3726b-c5c9-4a92-8f92-e72a916c38e3",
+    "username": "Salohiddin",
+    "password": "Salohiddin@03",
+    "role": "MANAGER",
+    "active": true,
+    "haveLibrary": true,
+    "books": []
+  },
+  {
+    "id": "89bce41a-c124-4bc9-84d4-817df1bb5e45",
+    "username": "MuhammadQodir",
+    "password": "MuhammadQodir",
+    "role": "USER",
+    "active": true,
+    "haveLibrary": false,
+    "books": [
+      {
+        "id": "7e7ad945-151f-43c9-aca5-13afd9aeeb0d",
+        "name": "GodFather",
+        "author": "Kommy",
+        "amount": 3
+      },
+      {
+        "id": "7512e37f-9855-408c-a1ae-b2815628c864",
+        "name": "Komui",
+        "author": "Shisui Uchiha",
+        "amount": 2
+      },
+      {
+        "id": "81ffa7f6-5313-4616-9352-11e08d552a6a",
+        "name": "Utkan kunlar",
+        "author": "Abdulla Kodiriy",
+        "amount": 4
+      },
+      {
+        "id": "af1bfb37-147a-479e-a3e7-b7297aaf192e",
+        "name": "Yulduzlu tunlar",
+        "author": "Pirimqul Qodirov",
+        "amount": 9
+      }
+    ]
+  },
+  {
+    "id": "af6af500-7ad4-4520-91bd-6ec8ac254235",
+    "username": "AbdulXoliq",
+    "password": "AbdulXoliq",
+    "role": "USER",
+    "active": true,
+    "haveLibrary": false,
+    "books": []
+  }
+]
